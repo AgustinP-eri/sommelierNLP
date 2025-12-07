@@ -44,7 +44,7 @@ Si deseas correr este proyecto en tu máquina local:
 
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/AgustinP-eri/somelierNLP)
+    git clone [https://github.com/AgustinP-eri/sommelierNLP)
     ```
 2.  Instala las dependencias:
     ```bash
@@ -57,7 +57,7 @@ Si deseas correr este proyecto en tu máquina local:
 
 ## 📊 Visualización del EDA
 
-Te invito a revisar el archivo `notebooks/EDA.ipynb` para ver el detalle del análisis de los datos y cómo se limpiaron las descripciones de los vinos antes de entrenar el modelo.
+Te invito a revisar el archivo `notebooks/Eda.ipynb` para ver el detalle del análisis de los datos y cómo se limpiaron las descripciones de los vinos antes de entrenar el modelo.
 
 ---
 **Autor:** Agustín P.
