@@ -1,0 +1,15 @@
+# Ignorar carpetas pesadas
+venv/
+env/
+.env
+chroma_db_data/
+__pycache__/
+
+# Archivos de sistema y logs
+*.pyc
+*.DS_Store
+*.sqlite3
+*.bin
+
+# Checkpoints de Jupyter
+.ipynb_checkpoints/
