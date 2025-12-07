@@ -44,7 +44,7 @@ Si deseas correr este proyecto en tu máquina local:
 
 1.  Clona el repositorio:
     ```bash
-    git clone [https://github.com/AgustinP-eri/somelierNLP.git](https://github.com/AgustinP-eri/somelierNLP.git)
+    git clone [https://github.com/AgustinP-eri/somelierNLP)
     ```
 2.  Instala las dependencias:
     ```bash
